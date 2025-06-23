@@ -7,7 +7,11 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by Jen Paterson and is{" "}
-        <a href="https://github.com/jenpato/react-weather-app" target="_blank">
+        <a
+          href="https://github.com/jenpato/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-sourced on GitHub
         </a>
       </footer>
