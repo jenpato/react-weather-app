@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by{" "}
-          <a href="https://github.com/jenpato" target="_blank">
+          <a href="https://github.com/jenpato" target="_blank" rel="noreferrer">
             {" "}
             Jen Paterson{" "}
           </a>{" "}
